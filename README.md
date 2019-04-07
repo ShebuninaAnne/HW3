@@ -1,5 +1,16 @@
 # HW3
-![](название картинки)
+![](1.png)
+![](2.png)
+![](3.png)
+![](4.png)
+![](5.png)
+![](6.png)
+![](grafik1.png)
+![](grafik2.png)
+![](grafik3.png)
+![](grafik4.png)
+![](grafik5.png)
+![](grafik6.png)
 
 2)Казать ipm-0,385
 Тазать ipm -0,011
